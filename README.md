@@ -1,3 +1,8 @@
+<a href="https://colab.research.google.com/github/skiand/Lyrics-search-engine-design/blob/master/Lyrics_search_engine_design.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" />
+</a>
+
+
 # Lyrics search engine design
 # Introduction
 
